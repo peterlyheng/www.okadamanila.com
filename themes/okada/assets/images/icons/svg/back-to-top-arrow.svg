@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <defs>
+        <filter x="-19.3%" y="-66.7%" width="150.0%" height="283.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15387347 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.900000036">
+        <g id="1.0-Homepage" transform="translate(-891.000000, -6983.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-7" filter="url(#filter-1)" transform="translate(872.000000, 6976.000000)">
+                <g id="Group" transform="translate(29.000000, 17.000000)">
+                    <path d="M0,8 C0,3.58064516 3.58064516,0 8,0 C12.4193548,0 16,3.58064516 16,8 C16,12.4193548 12.4193548,16 8,16 C3.58064516,16 0,12.4193548 0,8 Z M4.63225806,8.93225806 L6.96774194,6.49677419 L6.96774194,12.3870968 C6.96774194,12.816129 7.31290323,13.1612903 7.74193548,13.1612903 L8.25806452,13.1612903 C8.68709677,13.1612903 9.03225806,12.816129 9.03225806,12.3870968 L9.03225806,6.49677419 L11.3677419,8.93225806 C11.6677419,9.24516129 12.1677419,9.2516129 12.4741935,8.94516129 L12.8258065,8.59032258 C13.1290323,8.28709677 13.1290323,7.79677419 12.8258065,7.49677419 L8.5483871,3.21612903 C8.24516129,2.91290323 7.75483871,2.91290323 7.45483871,3.21612903 L3.17096774,7.49677419 C2.86774194,7.8 2.86774194,8.29032258 3.17096774,8.59032258 L3.52258065,8.94516129 C3.83225806,9.2516129 4.33225806,9.24516129 4.63225806,8.93225806 L4.63225806,8.93225806 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

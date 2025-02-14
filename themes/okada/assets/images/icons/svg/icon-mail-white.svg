@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/contact/mail</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.847000 0 0 0 0 0.847000 0 0 0 0 0.847000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-1451.000000, -503.000000)">
+            <g id="icon/contact/mail" transform="translate(1451.000000, 501.000000)" filter="url(#filter-1)">
+                <g>
+                    <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+                    <g id="Group" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.666667, 3.333333)" stroke="#333333" stroke-width="1.66666667">
+                        <path d="M1.66666667,0 L15,0 C15.9166667,0 16.6666667,0.75 16.6666667,1.66666667 L16.6666667,11.6666667 C16.6666667,12.5833333 15.9166667,13.3333333 15,13.3333333 L1.66666667,13.3333333 C0.75,13.3333333 0,12.5833333 0,11.6666667 L0,1.66666667 C0,0.75 0.75,0 1.66666667,0 Z" id="Path"></path>
+                        <polyline id="Path" points="16.6666667 1.66666667 8.33333333 7.5 0 1.66666667"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
